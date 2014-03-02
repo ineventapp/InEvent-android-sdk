@@ -8,7 +8,7 @@ Esse é o SDK oficial do InEvent para Android. Toda sua documentação pode ser 
 
 Exemplo
 --------
-Acesse o arquivo 'example.js' para um exemplo prático de como usar o SDK.
+Há um exemplo de implementação dentro da pasta 'sample/'. O principal arquivo é o [https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java]('sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java')
 
 Sobre
 --------
@@ -21,7 +21,7 @@ This is InEvent's official Android's SDK. All its documentation can be accessed 
 
 How-to
 --------
-Access the file 'example.js' for a SDK How-to.
+Check out the sample inside the folder 'sample/'. The main file of the project is [https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java]('sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java')
 
 Support
 --------
@@ -30,3 +30,4 @@ Just open an issue on Github and I'll get to it as soon as possible.
 About
 --------
 InEvent is brought to you by Estúdio Trilha.
+
