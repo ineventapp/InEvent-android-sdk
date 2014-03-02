@@ -29,7 +29,7 @@ public class ConnectionUtils
         }
     }
 
-    private static ConnectionSettings sSettings;
+    private static ConnectionSettings sSettings = new ConnectionSettings();
 
 
     public static void setConnectionSettings(ConnectionSettings settings)

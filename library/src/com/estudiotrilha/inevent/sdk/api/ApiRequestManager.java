@@ -73,7 +73,7 @@ public class ApiRequestManager
     /**
      * Adds a new {@link ApiRequest} to the end of the queue
      */
-    public void addRequest(ApiRequest request)
+    public void newRequest(ApiRequest request)
     {
         int requestCode = request.getRequestCode();
         if (!request.forceRequest)

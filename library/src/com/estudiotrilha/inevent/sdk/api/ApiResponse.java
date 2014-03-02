@@ -1,10 +1,15 @@
 package com.estudiotrilha.inevent.sdk.api;
 
+import java.io.Serializable;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class ApiResponse
+
+public class ApiResponse implements Serializable
 {
+    private static final long serialVersionUID = 5122827101036632617L;
+
     public int        responseCode;
     public String     responseMessage;
     public JSONObject json;
