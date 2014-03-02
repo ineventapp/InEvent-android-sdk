@@ -8,7 +8,7 @@ Esse é o SDK oficial do InEvent para Android. Toda sua documentação pode ser 
 
 Exemplo
 --------
-Há um exemplo de implementação dentro da pasta 'sample/'. O principal arquivo é o [https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java]('sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java')
+Há um exemplo de implementação dentro da pasta 'sample/'. O principal arquivo é o ['sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java'](https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java)
 
 Sobre
 --------
@@ -21,7 +21,7 @@ This is InEvent's official Android's SDK. All its documentation can be accessed 
 
 How-to
 --------
-Check out the sample inside the folder 'sample/'. The main file of the project is [https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java]('sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java')
+Check out the sample inside the folder 'sample/'. The main file of the project is ['sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java'](https://github.com/estudiotrilha/InEvent-android-sdk/blob/master/sample/src/com/estudiotrilha/inevent/sdk/demo/SampleListFragment.java)
 
 Support
 --------
